@@ -6,7 +6,7 @@
 - 软件采用Vip收费机制，普通用户可免费答题三次，Vip用户可以答题无限次，Vip有包日，包月，包年。
 - Vip充值采用激活码的形式充值，激活码购买链接：[点此购买](https://pr.kuaifaka.com/item/vv7Y51)
 - 帮助文档：[点击帮助](https://shimo.im/docs/HphcyWYWrQCGXwTP)
-- 参考博客：[CSDN博客](https://blog.csdn.net/qq_16166591/article/details/104544109)     [博客园](https://www.cnblogs.com/PyJun/p/PyJun.html)
+- 参考博客：[CSDN博客](https://blog.csdn.net/qq_16166591/article/details/104544109)，     [博客园](https://www.cnblogs.com/PyJun/p/PyJun.html)
 
 ### 2.下载地址：
 
