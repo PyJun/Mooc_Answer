@@ -3,10 +3,10 @@
 ### 1.软件介绍：
 
 - 该软件用于中国大学慕课自动答题，包括自动浏览视频，自动提交主观题和客观题答案，以及参与讨论。
-- 软件采用Vip收费机制，普通用户可免费答题三次，Vip用户可以答题无限次，Vip有包日，包月，包年。
+- 软件采用Vip收费机制，普通用户可免费刷课三门，Vip用户可以刷课无限门，Vip有包日，包月，包年。
 - Vip充值采用激活码的形式充值，激活码购买链接：[点此购买](https://pr.kuaifaka.com/item/vv7Y51)
 - 帮助文档：[点击帮助](https://shimo.im/docs/HphcyWYWrQCGXwTP)
-- 参考博客：[CSDN博客](https://blog.csdn.net/qq_16166591/article/details/104544109)，     [博客园](https://www.cnblogs.com/PyJun/p/PyJun.html)
+- 参考博客：[CSDN博客](https://blog.csdn.net/qq_16166591/article/details/104544109)， [博客园](https://www.cnblogs.com/PyJun/p/PyJun.html)， [简书](https://www.jianshu.com/p/169b14166026)
 
 ### 2.下载地址：
 
@@ -19,7 +19,7 @@
 
 ![安装图片](./图片/setup.png) 
 
-##### 2.打开软件，新用户为普通用户，可以免费答题三次，若要升级为Vip，请用激活码充值！
+##### 2.打开软件，新用户为普通用户，可以免费刷课三门，若要升级为Vip，请用激活码充值！
 
 ![软件介绍](./图片/introduce.png)
 
