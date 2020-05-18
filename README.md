@@ -3,8 +3,7 @@
 ### 1.软件介绍：
 
 - 该软件用于中国大学慕课自动答题，包括自动浏览视频，自动提交主观题和客观题答案，以及参与讨论。
-- 帮助文档：[点击帮助](https://shimo.im/docs/HphcyWYWrQCGXwTP)
-- 参考博客：[CSDN博客](https://blog.csdn.net/qq_16166591/article/details/104544109)， [博客园](https://www.cnblogs.com/PyJun/p/PyJun.html)， [简书](https://www.jianshu.com/p/169b14166026)
+- 官方网站：[点击进入](http://xuewuzhi.net)
 
 ### 2.下载地址：
 
