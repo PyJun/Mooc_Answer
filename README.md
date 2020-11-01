@@ -14,13 +14,13 @@
 
 ##### 1.从下载地址下载最新版的学无止答题器，安装到本地电脑，注意安装路径下面别带中文！
 
-![安装图片](http://118.31.48.9/images/setup.png) 
+![安装图片](https://xuewuzhi.cn/images/setup.png) 
 
 ##### 2.答题流程，首先点击“添加任务”，然后点击”一键登录“，最后点击”一键重刷“，也可以选择右键重刷。
 
-![答题流程图片](http://118.31.48.9/images/usage.png)
+![答题流程图片](https://xuewuzhi.cn/images/usage.png)
 
-![添加课程图片](http://118.31.48.9/images/task.png)
+![添加课程图片](https://xuewuzhi.cn/images/task.png)
 
 ### 4.问题反馈：
 
